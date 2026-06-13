@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/synapse/Work/projects/club/boids/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

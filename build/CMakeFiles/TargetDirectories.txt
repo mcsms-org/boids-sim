@@ -1,0 +1,3 @@
+/home/synapse/Work/projects/club/boids/build/CMakeFiles/boids.dir
+/home/synapse/Work/projects/club/boids/build/CMakeFiles/edit_cache.dir
+/home/synapse/Work/projects/club/boids/build/CMakeFiles/rebuild_cache.dir
